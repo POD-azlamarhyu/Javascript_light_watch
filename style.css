@@ -1,0 +1,21 @@
+body{
+    background-color: #ae8bff;
+    width: 85%;
+    max-width: 1000px;
+    margin: 50px auto;
+    text-align: center;
+    border-radius: 5px;
+}
+
+h1{
+    font-family: 'Bungee Shade',cursive;
+}
+.day-box{
+    font-size: 32px;
+}
+.time-box{
+    font-size: 72px;
+}
+
+
+
